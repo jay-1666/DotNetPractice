@@ -21,17 +21,36 @@ class Program
         //Practice1.Q15_TotalPrice();
         //Practice1.Q16_Handshakes();
         //Practice2.Q1_QuotientRemainder();
-        // Practice2.Q2_IntOperations();
-        // Practice2.Q3_DoubleOperations();
-        // Practice2.Q4_CelsiusToFahrenheit();
-        // Practice2.Q5_FahrenheitToCelsius();
-        // Practice2.Q6_TotalIncome();
-        // Practice2.Q7_SwapNumbers();
-        // Practice2.Q8_TripDetails();
-        // Practice2.Q9_AthleteRounds();
-        // Practice2.Q10_ChocolatesDistribution();
-        // Practice2.Q11_SimpleInterest();
-         Practice2.Q12_PoundsToKg();
+        //Practice2.Q2_IntOperations();
+        //Practice2.Q3_DoubleOperations();
+        //Practice2.Q4_CelsiusToFahrenheit();
+        //Practice2.Q5_FahrenheitToCelsius();
+        //Practice2.Q6_TotalIncome();
+        //Practice2.Q7_SwapNumbers();
+        //Practice2.Q8_TripDetails();
+        //Practice2.Q9_AthleteRounds();
+        //Practice2.Q10_ChocolatesDistribution();
+        //Practice2.Q11_SimpleInterest();
+        //Practice2.Q12_PoundsToKg();
+        //Practice3.Q1_DivisibleBy5();
+        //Practice3.Q2_FirstIsSmallest();
+        //Practice3.Q3_LargestAmongThree();
+        //Practice3.Q4_NaturalNumberSum();
+        //Practice3.Q5_VotingEligibility();
+        //Practice3.Q6_NumberType();
+        //Practice3.Q7_SpringSeason();
+        //Practice3.Q8_CountdownWhile();
+        //Practice3.Q9_CountdownFor();
+        //Practice3.Q10_SumUntilZero();
+        //Practice3.Q11_SumUntilNegative();
+        //Practice3.Q12_SumCompareWhile();
+        //Practice3.Q13_SumCompareFor();
+        //Practice3.Q14_FactorialWhile();
+        //Practice3.Q15_FactorialFor();
+        //Practice3.Q16_OddEven();
+        //Practice3.Q17_EmployeeBonus();
+        Practice3.Q18_MultiplicationTable();
+
 
 
         Console.ReadLine();
