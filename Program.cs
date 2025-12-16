@@ -1,0 +1,39 @@
+﻿using System;
+
+class Program
+{
+    static void Main()
+    {
+        //Practice1.Q1_AgeOfHarry();
+        //Practice1.Q2_AveragePCM();
+        //Practice1.Q3_KmToMilesFixed();
+        //Practice1.Q4_ProfitLoss();
+        //Practice1.Q5_PensDistribution();
+        //Practice1.Q6_FeeDiscountFixed();
+        //Practice1.Q7_EarthVolume();
+        //Practice1.Q8_KmToMilesUserInput();
+        //Practice1.Q9_FeeDiscountUserInput();
+        //Practice1.Q10_HeightConversion();
+        //Practice1.Q11_BasicCalculator();
+        //Practice1.Q12_TriangleArea();
+        //Practice1.Q13_SquareSide();
+        //Practice1.Q14_FeetToYardsMiles();
+        //Practice1.Q15_TotalPrice();
+        //Practice1.Q16_Handshakes();
+        //Practice2.Q1_QuotientRemainder();
+        // Practice2.Q2_IntOperations();
+        // Practice2.Q3_DoubleOperations();
+        // Practice2.Q4_CelsiusToFahrenheit();
+        // Practice2.Q5_FahrenheitToCelsius();
+        // Practice2.Q6_TotalIncome();
+        // Practice2.Q7_SwapNumbers();
+        // Practice2.Q8_TripDetails();
+        // Practice2.Q9_AthleteRounds();
+        // Practice2.Q10_ChocolatesDistribution();
+        // Practice2.Q11_SimpleInterest();
+         Practice2.Q12_PoundsToKg();
+
+
+        Console.ReadLine();
+    }
+}
