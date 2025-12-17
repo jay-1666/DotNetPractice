@@ -60,11 +60,13 @@ class Program
         //Practice4.Q8_GreatestFactor();
         //Practice4.Q9_PowerOfNumber();
         //Practice4.Q10_FactorsOfNumber();
-        Practice4.Q11_MultiplesOfNumber();
+        //Practice4.Q11_MultiplesOfNumber();
+        //Practice5.Q1_ArmstrongNumber();
+        //Practice5.Q2_NumberOfDigits();
+        //Practice5.Q3_HarshadNumber();
+        Practice5.Q4_AbundantNumber();
 
         Console.ReadLine();
-    }
-
-    
+    }    
 
 }
