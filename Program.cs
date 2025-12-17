@@ -49,10 +49,22 @@ class Program
         //Practice3.Q15_FactorialFor();
         //Practice3.Q16_OddEven();
         //Practice3.Q17_EmployeeBonus();
-        Practice3.Q18_MultiplicationTable();
-
-
+        //Practice3.Q18_MultiplicationTable();
+        //Practice4.Q1_LeapYear();
+        //Practice4.Q2_GradeCalculation();
+        //Practice4.Q3_CheckPrimeNumber();
+        //Practice4.Q4_FizzBuzz();
+        //Practice4.Q5_FizzBuzzWhile();
+        //Practice4.Q6_CalculateBMI();
+        //Practice4.Q7_YoungestAndTallestFriend();
+        //Practice4.Q8_GreatestFactor();
+        //Practice4.Q9_PowerOfNumber();
+        //Practice4.Q10_FactorsOfNumber();
+        Practice4.Q11_MultiplesOfNumber();
 
         Console.ReadLine();
     }
+
+    
+
 }
