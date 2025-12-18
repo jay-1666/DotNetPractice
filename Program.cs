@@ -64,8 +64,17 @@ class Program
         //Practice5.Q1_ArmstrongNumber();
         //Practice5.Q2_NumberOfDigits();
         //Practice5.Q3_HarshadNumber();
-        Practice5.Q4_AbundantNumber();
-
+        //Practice5.Q4_AbundantNumber();
+        Practice6.Q1_VotingEligibilityArray();
+        // Practice6.Q2_NumberCheckArray();
+        // Practice6.Q3_MultiplicationTable();
+        // Practice6.Q4_StoreNumbersAndSum();
+        // Practice6.Q5_MultiplicationTable6to9();
+        // Practice6.Q6_MeanHeight();
+        // Practice6.Q7_OddEvenArrays();
+        // Practice6.Q8_FactorsArray();
+        // Practice6.Q9_Copy2Dto1D();
+        // Practice6.Q10_FizzBuzzArray();
         Console.ReadLine();
     }    
 
